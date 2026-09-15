@@ -1,0 +1,2 @@
+Hello, this is a file handling program in Java.
+This data is written into the file.
