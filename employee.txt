@@ -1,3 +1,0 @@
-Employee ID: 1
-Employee Name: Mithili
-Employee Salary: 20000.0

@@ -1,4 +1,0 @@
-Patient ID: 1
-Patient Name: 2
-Patient Age: 20
-Diagnosis: Heart attack
