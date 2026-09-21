@@ -1,19 +1,20 @@
 public class MultipleCatchExample {
 
+    static String getString() {
+        return null;
+    }
+
     public static void main(String[] args) {
 
         try {
-
-            String str = null;
+            String str = getString();
 
             System.out.println(str.length());
 
         } catch (NullPointerException e) {
-
             System.out.println("Error: Null pointer exception. Object is null.");
 
         } catch (java.lang.Exception e) {
-
             System.out.println("Some other error occurred.");
         }
 
